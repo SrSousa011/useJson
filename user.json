@@ -1,0 +1,39 @@
+[
+  {
+  "id": 1,
+  "nome": "Marcelo",
+  "sobrenome": "Ribeiro",
+  "celular": "+91 789654123",
+  "email": "marcelo.ribeiro_01@gmail.com"
+},
+{
+  "id": 2,
+  "nome": "Maria",
+  "sobrenome": "Carmen",
+  "celular": "+22 439654165",
+  "email": "mariazinhacarmelote@hotmail.com"
+},
+{
+  "id": 3,
+  "nome": "José",
+  "sobrenome": "Mariano",
+  "celular": "+11 439544123",
+  "email": "joselitoamaral@outlok.com"
+      },
+
+{
+"id": 4,
+"nome": "Matias",
+"sobrenome": "Oliveira",
+"celular": "+68 329544763",
+"email": "mata.oli_10@hotmail.com"
+},
+{
+"id": 5,
+"nome": "Cassio",
+"sobrenome": "Cassianoe",
+"celular": "+48 543246587",
+"email": "cassiocassiante109@outlok.com"
+}
+]
+
